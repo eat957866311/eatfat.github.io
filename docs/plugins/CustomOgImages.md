@@ -374,7 +374,7 @@ export const og: SocialImageOptions["Component"] = (
   )
 }
 ```
-
+{% endraw %}
 ## API
 
 - Category: Emitter
