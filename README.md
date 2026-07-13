@@ -1,6 +1,6 @@
 # EatFat's Notes
 
-这里是我的集成电路设计与集成系统学习笔记库。
+这里是我的集成电路设计与集成系统学习笔记库。（test测试品）
 
 站点地址：<https://eat957866311.github.io/eatfat.github.io/>
 
